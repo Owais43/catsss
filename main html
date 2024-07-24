@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All About Cats</title>
+</head>
+<body>
+    <h1>Welcome to the Cat World!</h1>
+
+ 
+
+    <h2>Types of Cats</h2>
+    <ul>
+        <li>Domestic Short Hair</li>
+        <li>Domestic Long Hair</li>
+        <li>Persian</li>
+        <li>Sphynx</li>
+        <li>Maine Coon</li>
+    </ul>
+
+    <h2>Famous Cats</h2>
+    
+    <ul>
+        <li>Grumpy Cat</li>
+        <li>Garfield</li>
+        <li>Tom from Tom and Jerry</li>
+        <li>Felix the Cat</li>
+        <li>Cheshire Cat from Alice in Wonderland</li>
+    </ul>
+
+    <h2>Gallery</h2>
+    <p>Here are some pictures of cats:</p>
+    <img src="https://placekitten.com/200/300" alt="Cute Cat 1">
+    <img src="https://placekitten.com/250/350" alt="Cute Cat 2">
+    <img src="https://placekitten.com/300/400" alt="Cute Cat 3">
+
+    
+</body>
+</html>
